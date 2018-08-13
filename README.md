@@ -6,7 +6,7 @@
 
 Import the .sql file and change the params in the config/Database.php file to your own
 
-> Demonstrates GET, POST and DELETE operations with a Rest API using a sample blog data.
+> Demonstrates GET, POST and DELETE operations on a Rest API using a sample blog data.
 
 
 
